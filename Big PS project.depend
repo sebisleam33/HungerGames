@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1621862022 source:e:\work\big ps project\main.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<stdio.h>
+
